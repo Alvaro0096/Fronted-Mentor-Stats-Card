@@ -4,12 +4,12 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Overview]
   - [The challenge] The challenge is to build out this card component and get it looking as close to the design as possible.
 - [My process] 
   - [Built with] HTML, CSS.
-- [Author](#AlvaroJorge)
-- [Acknowledgments](#FrontedMentor)
+- [Author] AlvaroJorge
+- [Acknowledgments] FrontedMentor 
 
 ## Overview
 
@@ -21,13 +21,19 @@ Users should be able to:
 
 ### Screenshot
 
-(stats-preview-card-component-main/Stats_card_component_desktop.png)
-(stats-preview-card-component-main/Stats_card_component_mobile.png)
+- Desktop view:
+
+![Stats_card_component_desktop](https://user-images.githubusercontent.com/86804019/143623845-e138bbe2-da5a-44e2-a246-b671833e3d03.png)
+
+- Mobile view: 
+
+![Stats_card_component_mobile](https://user-images.githubusercontent.com/86804019/143623950-a7ba9b9a-c754-4123-87d4-5011d77a5b62.png)
+
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/profile/Alvaro0096/solutions
+- Live Site URL: https://your-live-site-url.com
 
 ## My process
 
@@ -100,5 +106,4 @@ in a short time.
 
 ## Author
 
-- Frontend Mentor - [@Alvaro0096](https://www.frontendmentor.io/profile/Alvaro0096)
-
+- Frontend Mentor - @Alvaro0096 https://www.frontendmentor.io/profile/Alvaro0096
